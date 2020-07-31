@@ -1,7 +1,7 @@
-# Project 3
+# Project 5
 
 ## Description
-Project 3 of Web Development 1 Class on Interactive Media Design Program.
+Project 5 for Web Development 1 Class on Interactive Media Design Program at Fanshawe College.
 
 ## Installation
 There is no installation process for this repo. Simply pull down and start working!
